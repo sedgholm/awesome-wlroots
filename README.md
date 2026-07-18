@@ -141,6 +141,7 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 * [Slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 * [Swappy](https://github.com/jtheoof/swappy) - A Wayland-native snapshot editing tool, inspired by Snappy on macOS
 * [Taiga](https://hg.sr.ht/~scoopta/taiga) - Animated screenshot program
+* [cullpp](https://codeberg.org/qel/cullpp) - Minimal wlroots-based region selector
 
 
 ## Session Management
